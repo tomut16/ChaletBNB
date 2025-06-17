@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072846769019",
+    "project_id": "id113012085",
+    "storage_bucket": "id113012085.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072846769019:android:c11785158781e12ce54bde",
+        "android_client_info": {
+          "package_name": "com.example.chaletbnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbahr0hsYVZia68iiM6cjebwUwQo10BWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
